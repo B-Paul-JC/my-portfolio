@@ -17,5 +17,5 @@ function setRotation(elements) {
 const sections = document.getElementsByTagName("section");
 
 window.addEventListener("scroll", (ev) => {
-    setRotation(sections);
+    // setRotation(sections);
 });
